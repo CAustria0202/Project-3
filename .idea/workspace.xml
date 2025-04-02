@@ -4,33 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088feee7-997a-4495-b3e1-58ce19be2f60" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Project-3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Base/base_driver.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data/locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/contact_us_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/footer_section.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/product_returns.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/register_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/shopping_cart_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/site_map_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pages/top_navigation_bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_footer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestCases/test_top_navigation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="088feee7-997a-4495-b3e1-58ce19be2f60" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/selenium_tests.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CAustria0202"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CAustria0202/Project-3.git",
+    "accountId": "2e681d2d-2340-4d96-9b76-7fdc66a70142"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -68,6 +56,7 @@
     "Python tests.Python tests for test_top_navigation.TestTopNavigationBar.test_changing_currency.executor": "Run",
     "Python tests.Python tests for test_top_navigation.TestTopNavigationBar.test_clicking_telephone.executor": "Run",
     "Python tests.Python tests for test_top_navigation.TestTopNavigationBar.test_clicking_wishlist.executor": "Run",
+    "Python tests.Python tests for test_top_navigation.TestTopNavigationBar.test_my_account.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -211,9 +200,33 @@
       <option name="presentableId" value="Default" />
       <updated>1743122649189</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1743599675242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743599675242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
 </project>
