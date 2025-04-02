@@ -1,0 +1,10 @@
+selenium==4.27.1
+pytest==8.3.4
+setuptools==75.8.0
+webdriver-manager==4.0.2
+pytest-html==4.1.1
+PyYAML==6.0.2
+#For using Allure report
+allure_pytest==2.13.5
+#pytest --alluredir=allure-results
+#allure serve allure-results
